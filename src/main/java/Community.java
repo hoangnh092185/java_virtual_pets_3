@@ -2,7 +2,6 @@ import org.sql2o.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
-import static org.junit.Assert.*;
 import java.sql.Timestamp;
 import java.text.DateFormat;
 import java.util.Timer;
